@@ -34,10 +34,10 @@
 
 <p align="center">
   <a href="https://renzotejada.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Renzo%20Tejada-Backend%20Developer-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Renzo Tejada" />
+    <img src="https://img.shields.io/badge/Renzo%20Tejada-Web%20Developer-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Renzo Tejada" />
   </a>
   <a href="https://alexistejada.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Alexis%20Tejada-Backend%20Developer-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white" alt="Alexis Tejada" />
+    <img src="https://img.shields.io/badge/Alexis%20Tejada-Web%20Developer-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white" alt="Alexis Tejada" />
   </a>
 </p>
 
