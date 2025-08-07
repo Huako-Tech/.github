@@ -32,14 +32,7 @@
 
 ## 🧑‍💻 Colaboradores
 
-<p align="center">
-  <a href="https://renzotejada.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Renzo%20Tejada-Web%20Developer-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Renzo Tejada" />
-  </a>
-  <a href="https://alexistejada.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Alexis%20Tejada-Web%20Developer-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white" alt="Alexis Tejada" />
-  </a>
-</p>
+<br/> <table align="center"> <tr> <td align="center"> <h3>🧔‍♂️ Renzo Tejada</h3> <a href="https://renzotejada.com/" target="_blank"> <img src="https://img.shields.io/badge/Tienda%20Web-renzotejada.com-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Web Renzo" /> </a> <br/><br/> <a href="https://github.com/renzotejada" target="_blank"> <img src="https://img.shields.io/badge/GitHub-@renzotejada-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/renzo-tejada/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Renzo%20Tejada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://www.instagram.com/rt_codes/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-@rt_codes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://www.facebook.com/TejadaRenzo" target="_blank"> <img src="https://img.shields.io/badge/Facebook-Renzo%20Tejada-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a> </td> <td align="center"> <h3>🧑‍💼 Alexis Tejada</h3> <a href="https://alexistejada.com/" target="_blank"> <img src="https://img.shields.io/badge/Tienda%20Web-alexistejada.com-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Web Alexis" /> </a> <br/><br/> <a href="https://github.com/xaiertejada" target="_blank"> <img src="https://img.shields.io/badge/GitHub-@xaiertejada-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/alexis-xaier-aar%C3%B3n-tejada-chung-39095120b/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Alexis%20Tejada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://www.instagram.com/alexis_16t/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-@alexis_16t-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://www.facebook.com/alexis.tejada.900/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-Alexis%20Tejada-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a> </td> </tr> </table>
 
 ---
 
