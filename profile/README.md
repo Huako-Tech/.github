@@ -3,7 +3,7 @@
 <h1 align="center">🌐 HUAKO TECH</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Huako%20Tech-Innovación%20Digital%20y%20Tecnología-blueviolet?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Huako%20Tech-Software%20%26%20Agencia%20Digital-blueviolet?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
